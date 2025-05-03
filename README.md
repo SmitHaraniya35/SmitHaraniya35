@@ -57,5 +57,5 @@
 - 🔗 [Hospital Appointment System](https://github.com/SmitHaraniya35/Hospital-Appointment-System) — ASP.NET Framework & SQL Server    
 
 ## 📬 Connect with Me
-- LinkedIn:[in/smit-haraniya](https://linkedin.com/in/smit-haraniya)
+- LinkedIn: [in/smit-haraniya](https://linkedin.com/in/smit-haraniya)
 - Email: smeetharaniya@gmail.com
