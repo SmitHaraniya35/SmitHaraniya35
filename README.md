@@ -5,13 +5,15 @@
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SmitHaraniya35&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitHaraniya35&exclude_repo=Chat-Application-Chatify-Django,&layout=compact&theme=radical)
+## 🌐 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitHaraniya35&exclude_repo=Chat-Application-Chatify-Django&layout=compact&theme=radical)
 
+## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=SmitHaraniya35&theme=radical&hide_border=false)
+
 
 ---
 
