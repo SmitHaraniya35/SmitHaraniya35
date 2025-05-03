@@ -37,10 +37,10 @@
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-- **C++**, **JavaScript**, **C#**, **Python**, **Java**, Dart
+- **C++**, **JavaScript**, **C#**, **Python**, **Machine Learning**, JAVA, Dart
 
 ### 🌐 Web & App Development
-- **React.js**, **Node.js**, **ASP.NET Core MVC**, Spring Boot, Flutter, HTML, CSS, Bootstrap
+- **React.js**, **Node.js**, **ASP.NET Core MVC**, Django, Spring Boot, Flutter, HTML, CSS, Bootstrap
 
 ### 🧠 Backend & Database
 - **MongoDB**, **MySQL**, **SQL Server**, Oracle, Firebase
