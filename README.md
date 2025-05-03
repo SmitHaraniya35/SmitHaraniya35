@@ -5,6 +5,14 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitHaraniya35&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitHaraniya35&layout=compact&theme=radical)
+
+---
+
 ## 🧠 Education
 - **B.Tech in Computer Engineering**, CPI: 7.91/10  
   Dharmsinh Desai University, Nadiad  
@@ -45,5 +53,5 @@
 - 🔗 [Hospital Appointment System](https://github.com/SmitHaraniya35/Hospital-Appointment-System) — ASP.NET Framework & SQL Server    
 
 ## 📬 Connect with Me
-- [LinkedIn](https://linkedin.com/in/smit-haraniya)
+- LinkedIn:[in/smit-haraniya](https://linkedin.com/in/smit-haraniya)
 - Email: smeetharaniya@gmail.com
