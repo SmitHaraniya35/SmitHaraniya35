@@ -7,7 +7,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitHaraniya35&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=SmitHaraniya35&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitHaraniya35&exclude_repo=Chat-Application-Chatify-Django,&layout=compact&theme=radical)
 
