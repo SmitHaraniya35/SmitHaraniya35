@@ -17,16 +17,6 @@
 
 ---
 
-## 🧠 Education
-- **B.Tech in Computer Engineering**, CPI: 7.91/10  
-  Dharmsinh Desai University, Nadiad  
-- **Gujarat Board (SSC)**: 99.73 PR  
-- **Science (HSC)**: 95.31 PR  
-- **JEE Main**: 88.38 PR  
-- **GUJCET**: 101/120 (97.91 PR)  
-
----
-
 ## 💻 Coding & Achievements
 - ✅ 200+ problems solved on **GeeksforGeeks**  
 - ✅ 140+ problems solved on **LeetCode**  
@@ -54,7 +44,7 @@
 - 🔗 [MathCraft](https://github.com/SmitHaraniya35/MathCraft) — Built with MERN Stake & MongoDB
 - 🔗 [QuizMaster](https://github.com/SmitHaraniya35/QuizMasters) — ASP.NET Core & SQL Server   
 - 🔗 [TradeTrends](https://github.com/SmitHaraniya35/TradeTrends) — Buit a Model using ML & Flask Framework
-- 🔗 [Hospital Appointment System](https://github.com/SmitHaraniya35/Hospital-Appointment-System) — ASP.NET Framework & SQL Server    
+- 🔗 [CarePoint](https://github.com/SmitHaraniya35/CarePoint) — ASP.NET Core MVC & SQL Server    
 
 ## 📬 Connect with Me
 - LinkedIn: [in/smit-haraniya](https://linkedin.com/in/smit-haraniya)
