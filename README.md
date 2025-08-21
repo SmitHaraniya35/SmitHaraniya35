@@ -18,8 +18,8 @@
 ---
 
 ## 💻 Coding & Achievements
-- ✅ 200+ problems solved on **GeeksforGeeks**  
-- ✅ 140+ problems solved on **LeetCode**  
+- ✅ 250+ problems solved on **GeeksforGeeks**  
+- ✅ 200+ problems solved on **LeetCode**  
 - ⭐ CodeChef Rating: **1451** | 2⭐ | Global Rank: 628 in Starter 85   
 
 ---
